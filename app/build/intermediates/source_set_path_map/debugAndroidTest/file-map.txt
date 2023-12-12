@@ -1,0 +1,6 @@
+com.vr.smartreceivingnew.test.app-core-1.5.0-0 C:\Users\smile\.gradle\caches\transforms-3\83cae9201767a1123c66312b99140b9a\transformed\core-1.5.0\res
+com.vr.smartreceivingnew.test.app-annotation-experimental-1.3.0-1 C:\Users\smile\.gradle\caches\transforms-3\a479f75947cf65b2b9b8da3a361aafbb\transformed\annotation-experimental-1.3.0\res
+com.vr.smartreceivingnew.test.app-androidTest-2 E:\ANDROID\Smart Receiving\app\build\generated\res\resValues\androidTest\debug
+com.vr.smartreceivingnew.test.app-mergeDebugAndroidTestResources-3 E:\ANDROID\Smart Receiving\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.vr.smartreceivingnew.test.app-mergeDebugAndroidTestResources-4 E:\ANDROID\Smart Receiving\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.vr.smartreceivingnew.test.app-merged_res-5 E:\ANDROID\Smart Receiving\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/item_scan.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_scan.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_admin.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_report.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_report.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_scan.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_scan.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/ly_federal.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/ly_federal.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/item_report.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_report.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_add_user.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_add_user.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/item_report_user.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_report_user.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/item_barang.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_barang.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_login.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/item_user.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_single_scan.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_single_scan.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_first_scan.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_first_scan.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_add.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_add.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_second_scan.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_second_scan.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_rak_scan.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_rak_scan.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_report_user.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_report_user.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_before_scan.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_before_scan.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_list_user.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_list_user.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_splash.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.vr.smartreceivingnew.app-mergeDebugResources-41:/layout/activity_user.xml",
+        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_user.xml"
+    }
+]
