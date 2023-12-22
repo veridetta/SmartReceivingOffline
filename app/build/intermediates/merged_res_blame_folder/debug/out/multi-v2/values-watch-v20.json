@@ -4,7 +4,7 @@
             "outputFile": "com.vr.smartreceivingnew.app-mergeDebugResources-40:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\ae760572781bb1849e061498942c7c6a\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\6bd2e7bfcf5684be173d0911e229af1d\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

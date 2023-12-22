@@ -3730,6 +3730,7 @@ drawable ic_code_scanner_auto_focus_on
 drawable ic_code_scanner_flash_off
 drawable ic_code_scanner_flash_on
 drawable ic_delete
+drawable ic_download
 drawable ic_edit
 drawable ic_email
 drawable ic_item
@@ -3943,6 +3944,7 @@ id browser_actions_menu_view
 id btnAdd
 id btnBack
 id btnCari
+id btnExport
 id btnFdr
 id btnFederal
 id btnHapus
@@ -6120,4 +6122,5 @@ styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration
 styleable include constraintSet
 xml backup_rules
 xml data_extraction_rules
+xml file_paths
 xml image_share_filepaths

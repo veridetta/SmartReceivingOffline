@@ -1,494 +1,518 @@
 [
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_delete.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_delete.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_qr.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_qr.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_search.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_search.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_user_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_user_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_report_user.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_report_user.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_before_scan.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_before_scan.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_download.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_download.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_unit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_unit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_user_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_user_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_item_all.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_item_all.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_logout.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_logout.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_item.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_item.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_unit.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_unit.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_email.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_email.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_item_all.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_item_all.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_edit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_edit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_user_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_user_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_delete.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_delete.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_delete.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_delete.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_logout.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_first_scan.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_first_scan.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_report.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_report.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_item.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_item.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_search.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_users.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_users.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_delete.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_delete.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_qr.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_qr.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_item_report_user.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_report_user.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_first_scan.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_first_scan.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_phone.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_phone.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_back.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_back.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_phone.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_phone.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_edit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_search.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_search.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_item_scan.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\item_scan.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_unit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_unit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_item_user.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_user.xml"
+        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/xml_file_paths.xml.flat",
+        "source": "com.vr.smartreceivingnew.app-main-44:/xml/file_paths.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_item_all.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_item_all.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_item_report.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\item_report.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_unit.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_unit.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_user_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_user_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_edit.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_edit.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_item_report_user.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\item_report_user.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_edit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_edit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_logout.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_logout.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_delete.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_back.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_logout.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_logout.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_report.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_report.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_logout.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_second_scan.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_second_scan.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_item.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_item.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable_ic_logo.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable\\ic_logo.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\raw_sound.mp3.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\raw\\sound.mp3"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_search.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_search.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_unit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_unit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_add.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_add.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_delete.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_back.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_back.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_users.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_users.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_search.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_item.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_item.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_report.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_report.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_ly_federal.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\ly_federal.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_user_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_user_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_unit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_unit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_item_all.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_item_all.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_item.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_item.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_search.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_search.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_phone.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_users.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_users.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_users.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_users.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_add_user.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_add_user.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_splash.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable\\bg_rounded.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_item_all.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_item_all.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_phone.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_phone.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_email.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_email.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_delete.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_email.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_email.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_item_all.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_item_all.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_password.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_password.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_user.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_user.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_unit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_unit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_search.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_search.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_edit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_phone.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_phone.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_back.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_phone.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_phone.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_list_user.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_list_user.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_item_barang.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_barang.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_edit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_delete.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_delete.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_report.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_report.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_unit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_unit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_report.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_edit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_edit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_email.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_delete.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_delete.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_password.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_password.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_edit.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_edit.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_item_scan.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_scan.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_report.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_report.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_back.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_back.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_add.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_password.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_password.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_unit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_unit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_qr.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_qr.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_edit.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_users.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_users.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_email.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_ly_federal.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/ly_federal.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_email.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_email.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable_top_rounded_bg.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable/top_rounded_bg.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_add_user.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_add_user.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_users.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_users.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_qr.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_qr.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_user_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_user_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_item_all.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_item_all.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_report.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_report.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_logout.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_logout.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_phone.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_second_scan.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_second_scan.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_item.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_item.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_admin.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_admin.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_email.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_email.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_item.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_item.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_before_scan.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_before_scan.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_users.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_users.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_users.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_users.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_main.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_main.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_delete.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_single_scan.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_single_scan.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_email.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_user_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_user_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_back.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_report_user.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_report_user.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_users.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_users.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_report.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_report.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_password.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_password.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable_ic_logo.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable/ic_logo.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_back.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_back.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_password.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_user_add.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_user_add.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_item_user.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\item_user.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_password.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_password.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_logout.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/xml_backup_rules.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_download.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_download.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_rak_scan.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_rak_scan.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_unit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_unit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_password.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_password.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_qr.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_qr.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_scan.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_scan.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_password.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_rak_scan.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_rak_scan.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_qr.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_qr.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_search.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_search.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_email.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_phone.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_phone.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable\\bg_circle.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_report.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_report.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_user.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable_bg_rounded.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable/bg_rounded.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_back.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_report.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_report.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_admin.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_report.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_report.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_users.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_users.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_download.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_download.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_password.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_password.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_item_barang.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\item_barang.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_logout.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_user_add.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_user_add.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-mdpi_ic_email.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-mdpi/ic_email.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_add.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_login.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_login.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable_top_rounded_bg.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable\\top_rounded_bg.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable_bg_circle.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable/bg_circle.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_edit.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_edit.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_scan.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_scan.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_add.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_add.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_item.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_item.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-hdpi_ic_user_add.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-hdpi/ic_user_add.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_download.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_download.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_activity_list_user.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/activity_list_user.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_qr.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_qr.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/raw_sound.mp3.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/raw/sound.mp3"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_search.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_logout.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_logout.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_item.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_item.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_back.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_back.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_item_all.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_item_all.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xxhdpi_ic_qr.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xxhdpi/ic_qr.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-anydpi_ic_add.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-anydpi\\ic_add.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-anydpi_ic_back.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-anydpi/ic_back.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_qr.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_qr.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_phone.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/layout_item_report.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/layout/item_report.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_qr.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_qr.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_item_all.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_item_all.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/drawable-xhdpi_ic_logout.png.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/drawable-xhdpi/ic_logout.png"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_password.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_password.png"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\layout_activity_single_scan.xml.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\layout\\activity_single_scan.xml"
     },
     {
-        "merged": "com.vr.smartreceivingnew.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.vr.smartreceivingnew.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_item.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_item.png"
+    },
+    {
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_item_all.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_item_all.png"
+    },
+    {
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xhdpi_ic_download.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xhdpi\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-mdpi_ic_report.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-mdpi\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-merged_res-42:\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\smile\\.gradle\\daemon\\8.2\\com.vr.smartreceivingnew.app-main-44:\\drawable-xxhdpi\\ic_phone.png"
     }
 ]

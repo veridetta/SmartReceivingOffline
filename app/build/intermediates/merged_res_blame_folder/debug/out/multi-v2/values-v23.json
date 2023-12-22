@@ -4,7 +4,7 @@
             "outputFile": "com.vr.smartreceivingnew.app-mergeDebugResources-40:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\7c89a5452cc3f309c0a5b100a03e81e1\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\023f32ff526cd46d59570c7dd62d1459\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\cecfa5420e04f3503eeb2ec26c4264e4\\transformed\\material-1.10.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\5395c5970a01ae312e9ddb49a78a58bc\\transformed\\material-1.10.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,21,25,28,31,34,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\ae760572781bb1849e061498942c7c6a\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\6bd2e7bfcf5684be173d0911e229af1d\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

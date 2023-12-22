@@ -4,7 +4,7 @@
             "outputFile": "com.vr.smartreceivingnew.app-mergeDebugResources-40:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\cecfa5420e04f3503eeb2ec26c4264e4\\transformed\\material-1.10.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\5395c5970a01ae312e9ddb49a78a58bc\\transformed\\material-1.10.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

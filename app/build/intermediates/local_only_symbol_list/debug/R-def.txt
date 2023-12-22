@@ -18,6 +18,7 @@ drawable bg_rounded
 drawable ic_add
 drawable ic_back
 drawable ic_delete
+drawable ic_download
 drawable ic_edit
 drawable ic_email
 drawable ic_item
@@ -38,6 +39,7 @@ drawable top_rounded_bg
 id btnAdd
 id btnBack
 id btnCari
+id btnExport
 id btnFdr
 id btnFederal
 id btnHapus
@@ -133,3 +135,4 @@ style Base.Theme.SmartReceiving
 style Theme.SmartReceiving
 xml backup_rules
 xml data_extraction_rules
+xml file_paths
