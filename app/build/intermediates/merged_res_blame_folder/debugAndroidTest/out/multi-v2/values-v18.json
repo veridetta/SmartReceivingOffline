@@ -4,7 +4,7 @@
             "outputFile": "com.vr.smartreceivingnew.test.app-mergeDebugAndroidTestResources-3:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\83cae9201767a1123c66312b99140b9a\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
+                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-3\\9c44fc3a543549f94ba743fc15dbe6e3\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",

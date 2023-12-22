@@ -1,4 +1,4 @@
-#Tue Dec 12 11:06:12 WIB 2023
+#Fri Dec 22 16:37:45 WIB 2023
 base.0=E\:\\ANDROID\\Smart Receiving\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
 base.1=E\:\\ANDROID\\Smart Receiving\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
 base.2=E\:\\ANDROID\\Smart Receiving\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\4\\classes.dex
